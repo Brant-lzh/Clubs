@@ -1,0 +1,4 @@
+.idea
+*.log
+runtime
+ThinkPHP_README.md
