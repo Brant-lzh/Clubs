@@ -19,14 +19,10 @@
 
 > ### 效果展示
 * [微信小程序](https://github.com/Brant-lzh/Clubs_miniprogram)
-<img src="./show_images/1.jpg" width = "300" height = "200" alt="展示图片"/>
-<img src="./show_images/2.jpg" width = "300" height = "200" alt="展示图片"/>
-<img src="./show_images/3.jpg" width = "300" height = "200" alt="展示图片"/>
-<img src="./show_images/4.jpg" width = "300" height = "200" alt="展示图片"/>
-<img src="./show_images/5.jpg" width = "300" height = "200" alt="展示图片"/>
-<img src="./show_images/6.jpg" width = "300" height = "200" alt="展示图片"/>
-<img src="./show_images/7.jpg" width = "300" height = "200" alt="展示图片"/>
-<img src="./show_images/8.jpg" width = "300" height = "200" alt="展示图片"/>
+
+
+<img src="./show_images/1.jpg" width = "250" height = "420" alt="展示图片"/><img src="./show_images/2.jpg" width = "250" height = "420" alt="展示图片"/><img src="./show_images/3.jpg" width = "250" height = "420" alt="展示图片"/><img src="./show_images/4.jpg" width = "250" height = "420" alt="展示图片"/>
+<img src="./show_images/5.jpg" width = "250" height = "420" alt="展示图片"/><img src="./show_images/6.jpg" width = "250" height = "420" alt="展示图片"/><img src="./show_images/7.jpg" width = "250" height = "420" alt="展示图片"/><img src="./show_images/8.jpg" width = "250" height = "420" alt="展示图片"/>
 
 * 后台
 ![展示图片](./show_images/show1.png)![展示图片](./show_images/show2.png)![展示图片](./show_images/show3.png)
