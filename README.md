@@ -19,8 +19,7 @@
 
 > ### 效果展示
 * [微信小程序](https://github.com/Brant-lzh/Clubs_miniprogram)
-<img src="./show_images/1.jpg" width = "300" height = "200" alt="展示图片"/>
-<img src="./show_images/2.jpg" width = "300" height = "200" alt="展示图片"/>
+<img src="./show_images/1.jpg" width = "200" height = "500" alt="展示图片"/><img src="./show_images/2.jpg" width = "200" height = "500" alt="展示图片"/>
 <img src="./show_images/3.jpg" width = "300" height = "200" alt="展示图片"/>
 <img src="./show_images/4.jpg" width = "300" height = "200" alt="展示图片"/>
 <img src="./show_images/5.jpg" width = "300" height = "200" alt="展示图片"/>
